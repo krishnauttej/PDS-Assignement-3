@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Inesita",
+        "last": "da Rosa"
+      },
+      "location": {
+        "street": {
+          "number": 4457,
+          "name": "Rua Paraíba "
+        },
+        "city": "Araçatuba",
+        "state": "Rio de Janeiro",
+        "country": "Brazil",
+        "postcode": 45862,
+        "coordinates": {
+          "latitude": "-81.2608",
+          "longitude": "8.6118"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "inesita.darosa@example.com",
+      "login": {
+        "uuid": "6582771b-6064-42fd-8a1f-9d694bce1a3d",
+        "username": "yellowmouse868",
+        "password": "angus",
+        "salt": "cxrj0ZFQ",
+        "md5": "b4261d9a5171ed5ab387379376a5c51c",
+        "sha1": "e871b95f263fa4c0e34d438b0fc9af9891886103",
+        "sha256": "e9612171d4d76f75251f064a43519913b63c6bb102b22c8ca547200363d74048"
+      },
+      "dob": {
+        "date": "1968-03-12T06:14:46.941Z",
+        "age": 56
+      },
+      "registered": {
+        "date": "2014-04-08T17:51:59.658Z",
+        "age": 9
+      },
+      "phone": "(78) 9162-8062",
+      "cell": "(01) 8565-7015",
+      "id": {
+        "name": "CPF",
+        "value": "749.796.539-44"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/30.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": {
+    "seed": "0eab8ed8a023b82f",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
